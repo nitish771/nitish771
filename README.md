@@ -1,19 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**nitish770/nitish770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 I'm Nitish, a passionate Computer Science Student eager to learn new technologies and also to share my knowledge. 
+- 🔭 I want to be aficionado of Linux and Python.
+- 🔭 I'm not too much social but I'm amiable. I prefer working on projects rather than chit-chatting with someone.
+- 🔭 I'm currently working on enhancing my Github profile(contribution) and Linkedin connections.
+- 🔭 Simultaneously I'm also learning other technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Github Profile Views](https://komarev.com/ghpvc/?username=nitish770&color=blue)
 
 [![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=nitish770&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
