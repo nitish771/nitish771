@@ -1,15 +1,14 @@
-## Hi there 👋🏾 👩🏾‍💻
+## Hey there 👋🏾 👩🏾‍💻
 
 ### About Me
-- 🔭 My name is Nitish, a passionate Computer Science Undergraducate Student eager to learn new technologies. 
-- 🔭 I mind my business rather than poking nose in.
-- 🔭 I'm currently working on enhancing my Github profile(contribution) and Linkedin connections.
-
+I am Nitish, a passionate Associate Software Engineer, adding new technologies in my ammo regularly. 
 
 ---
 
 ### My Skills
 - 🔭 Python3
+- 🔭 Dell Boomi
+- 🔭 SalesForce Administration
 - 🔭 Django
 - 🔭 Linux
 - 🔭 Bash
@@ -17,7 +16,9 @@
 - 🔭 Docker
 - 🔭 CPP
 - 🔭 C
-- 🔭 Front End
+- 🔭 Html
+- 🔭 CSS
+- 🔭 JS
 
 ![Github Profile Views](https://komarev.com/ghpvc/?username=nitish771&color=blue)
 
